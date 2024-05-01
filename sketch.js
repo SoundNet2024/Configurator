@@ -81,7 +81,7 @@ let SubirAcept = -HALFPI;
 
 let ConectarESP32 = false;
 
-let PaginaBLE = true; //Set in false when finish programing
+let PaginaBLE = false; //Set in false when finish programing
 
 let TransparenciaBLE = 0;
 
